@@ -1,3 +1,21 @@
 body {
-  background-color: rgb(204, 197, 211);
+  background-color: rgb(241, 237, 245);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: rgb(12, 1, 22);
+}
+
+button {
+  background-color: rgb(122, 10, 235);
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+nav {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
 }
